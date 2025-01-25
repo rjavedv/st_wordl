@@ -15,9 +15,13 @@ Start your favorite wordle app, give some initial guess.
 Now launch this wordle solver and input your guess word and its colors.
 
 **A:** Lets say we input 'clear' as first guess
+
 ![](images/WRD1.png)
+
 **B:** Launch the Wordle Helper App 
+
 ![](images/App1a.png)
+
 1. Enter the guess word in text box and press 'Enter' key (This will make this word appear below the radio button boxes)
 2. For each character, choose the color from radio buttons. In the above example, C and E are Yellow and rest are Grey.
 3. Press the 'Submit' Button. 
