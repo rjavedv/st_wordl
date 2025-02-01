@@ -13,7 +13,7 @@ st.set_page_config(
     page_title='Wordle Helper', 
     page_icon=':brain:',
     menu_items={
-        'Get Help': 'https://www.extremelycoolapp.com/help',
+        'Get Help': 'https://github.com/rjavedv/st_wordl',
         'Report a bug': 'mailto:rjaved@zoho.com',
         'About': '## Wordle Helper!  created by Rashid Javed'
     }    
